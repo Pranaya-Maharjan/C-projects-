@@ -1,0 +1,4 @@
+
+1 ram 20 cs
+2 ras 10 cs
+3 hari 30 cs
